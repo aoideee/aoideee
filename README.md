@@ -36,7 +36,13 @@
           <li>Spotify Link: <a href="https://open.spotify.com/track/5a932AL1bOQhwbeb7lqWsU?si=edd7cfc51184419f">Kane Strang - It's Not That Bad</a></li>
           <li>YouTube Link: <a href="https://youtu.be/-kF9d99qRVs?si=4zjGwZjKK2WmDGnS">Kane Strang - It's Not That Bad</a></li>
       </ul>
-  </li> 
+  </li>
+  <li>Song 3🎧: 
+      <ul>
+          <li>Spotify Link: <a href="https://open.spotify.com/track/7hsqe6RUqG0E2a3j878ans?si=cfbfdc7b0d544d52">LOUD HOUND - Goodbye Darling</a></li>
+          <li>YouTube Link: <a href="https://youtu.be/ES0CQctgADw?feature=shared">LOUD HOUND - Goodbye Darling</a></li>
+      </ul>
+  </li>
 </ul>
 
 
