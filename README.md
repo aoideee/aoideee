@@ -26,7 +26,7 @@
   <li>Book Series📚: <i>The School for Good and Evil</i> </li>
   <li>Song🎧 : 
     <ul>
-      <li>Spotify Link: <a href="https://open.spotify.com/track/0DmfBkkvrPR9f2KQJuE2ui?si=b1e0be86a43c43c1" target="_blank">sodistilled - i'd never do that to you</a> </li>
+      <li>Spotify Link: <a href="https://open.spotify.com/track/0DmfBkkvrPR9f2KQJuE2ui?si=b1e0be86a43c43c1" target="_blank">sodistilled - i'd never do that to you</a></li>
       <li>YouTube Link: <i>None at the moment :( </i> </li>
     </ul> 
   </li>
