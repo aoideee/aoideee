@@ -6,6 +6,7 @@
         <li>HTML</li>
         <li>CSS</li>
         <li>C++</li>
+        <li>SQL</li>
       </ul>
     <li>Would love to learn new languages and explore the field of IT/CS more</li>
 </ul>
@@ -21,7 +22,7 @@
     </li>
 </ul>
 
-## Current Obsession <i>last edited(August 24th, 2024)</i> 💝
+## Current Obsession <i>last edited(08/24/2024)</i> 💝
 <ul>
   <li>Book Series📚: <i>The School for Good and Evil</i> </li>
   <li>Song🎧 : 
