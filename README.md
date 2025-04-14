@@ -1,14 +1,6 @@
 ## Hello There~ My name is Tysha Daniels✨
 <ul>
     <li>Currently pursuing a degree in Information Technology🖥️</li>
-    <li>Languages I know how to use: </li>
-      <ul>
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>C++</li>
-        <li>SQL</li>
-      </ul>
-    <li>Would love to learn new languages and explore the field of IT/CS more</li>
 </ul>
 
 ## Fun Facts🎉
@@ -22,25 +14,25 @@
     </li>
 </ul>
 
-## Current Obsession <i>last edited(08/25/2024)</i>🧸
+## Current Obsession <i>last edited(04/13/2025)</i>🧸
 <ul>
   <li>Book Series📚: <i>The School for Good and Evil</i> </li>
   <li>Song 1🎧: 
     <ul>
-      <li>Spotify Link: <a href="https://open.spotify.com/track/0DmfBkkvrPR9f2KQJuE2ui?si=b1e0be86a43c43c1">sodistilled - i'd never do that to you</a></li>
-      <li>YouTube Link: <i>None at the moment :( </i> </li>
+      <li>Spotify Link: <a href="https://open.spotify.com/track/0DwClY2t9YAWHBROMIgrXb?si=d1cc0d9824114055">The Lumineers - Ho Hey</a></li>
+      <li>YouTube Link: <a href="https://youtu.be/zvCBSSwgtg4?si=PaTHieaPGMEOVS0b">The Lumineers - Ho Hey</a></li>
     </ul>
   </li>
   <li>Song 2🎧:
       <ul>
-          <li>Spotify Link: <a href="https://open.spotify.com/track/5a932AL1bOQhwbeb7lqWsU?si=edd7cfc51184419f">Kane Strang - It's Not That Bad</a></li>
-          <li>YouTube Link: <a href="https://youtu.be/-kF9d99qRVs?si=4zjGwZjKK2WmDGnS">Kane Strang - It's Not That Bad</a></li>
+          <li>Spotify Link: <a href="https://open.spotify.com/track/6mh8p70KXnQ2qkXH8pUXQY?si=946e0869a1ad4f8b">AyoMaso, xaviersobased - Can't Go Back</a></li>
+          <li>YouTube Link:<i>None at the moment :(</i></li>
       </ul>
   </li>
   <li>Song 3🎧: 
       <ul>
-          <li>Spotify Link: <a href="https://open.spotify.com/track/7hsqe6RUqG0E2a3j878ans?si=cfbfdc7b0d544d52">LOUD HOUND - Goodbye Darling</a></li>
-          <li>YouTube Link: <a href="https://youtu.be/ES0CQctgADw?feature=shared">LOUD HOUND - Goodbye Darling</a></li>
+          <li>Spotify Link: <a href="https://open.spotify.com/track/0CSTvWUps1YmpQoXXay9ol?si=93b987c50eb84752">Florence+The Machine - Cosmic Love</a></li>
+          <li>YouTube Link: <a href="https://youtu.be/2EIeUlvHAiM?si=ndsIs7tQbdus-A45">Florence+The Machine - Cosmic Love</a></li>
       </ul>
   </li>
 </ul>
