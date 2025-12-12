@@ -1,7 +1,5 @@
 ## Hello There~ My name is Tysha Daniels✨
-<ul>
-    <li>Currently pursuing a degree in Information Technology🖥️</li>
-</ul>
+Currently pursuing a degree in Information Technology🖥️
 
 <!--
 **aoideee/aoideee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
